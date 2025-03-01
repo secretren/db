@@ -49,7 +49,7 @@ body {
 #unity-logo {
     width: 450px;
     height: 450px;
-    background: url('logo.png') no-repeat center;
+    background: url('https://cdn.statically.io/gh/secretren/db/main/granny2/logo.png') no-repeat center;
     background-size: contain;
     margin: 0 auto;
 }
