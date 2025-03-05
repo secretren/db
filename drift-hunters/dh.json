@@ -1,9 +1,9 @@
 {
   "TOTAL_MEMORY": 1073741824,
-  "dataUrl": "https://ubg100.bitbucket.io/games/dh/dh.data.unityweb",
-  "asmCodeUrl": "dh.asm.code.unityweb",
-  "asmMemoryUrl": "dh.asm.memory.unityweb",
-  "asmFrameworkUrl": "dh.asm.framework.unityweb",
+  "dataUrl": "",
+  "asmCodeUrl": "https://cdn.statically.io/gh/secretren/db/edit/main/drift-hunters/dh.asm.code.unityweb",
+  "asmMemoryUrl": "https://cdn.statically.io/gh/secretren/db/edit/main/drift-hunters/dh.asm.memory.unityweb",
+  "asmFrameworkUrl": "https://cdn.statically.io/gh/secretren/db/edit/main/drift-hunters/dh.asm.framework.unityweb",
   "backgroundUrl": "",
   "splashScreenStyle": "Dark",
   "backgroundColor": "#111111"
